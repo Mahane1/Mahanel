@@ -1,3 +1,5 @@
+<h1 align="center">︶⊹︶︶୨୧︶︶⊹︶</h1>
+
 <div align="center">
 
 <img src="https://github.com/Mahane1/Mahanel/blob/main/8e3e1c6dad3a91965ade7ae2381c9d05%20(1).jpg" width="100%">
@@ -10,7 +12,9 @@
 
 <br><br>
 
-<sub>Layout & header © @yourname</sub>
+<sub>i don't think i could stand to be where you 𝙙𝙤𝙣'𝙩 𝙨𝙚𝙚 𝙢𝙚</sub>
+
+</sub>@𝘿𝙚𝙡𝙡𝙞𝙤𝙪𝙨</sub>
 
 </div>
 
@@ -19,7 +23,7 @@
 <div align="center">
 
 <h4> ⌗ ──── / zaizai </h4>
-<sub>dazai themed server</sub>
+<sub>He/They</sub>
 
 </div>
 
@@ -34,7 +38,7 @@
 </td>
 <td>
 
-<b>owner</b>　生　@Zai  
+<b>owner</b>　生　@Jou  
 <sub>main us · the black wraith</sub>  
 
 <br>
@@ -72,7 +76,7 @@
 <td align="center">
 
 <img src="https://github.com/Mahane1/Mahanel/blob/main/Kh%C3%B4ng%20C%C3%B3%20Ti%C3%AAu%20%C4%90%E1%BB%81261_20260416125125.png" width="40"><br>
-<sub>boost perks</sub>
+<sub></sub>
 
 </td>
 </tr>
