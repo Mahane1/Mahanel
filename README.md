@@ -54,7 +54,7 @@
 
 <div align="center">
 
-<img src="https://i.imgur.com/dazai-banner.png" width="90%">
+<img src="https://github.com/Mahane1/Mahanel/blob/main/8cb322aefa4b11efce410271f4174bfa.jpg" width="90%">
 
 </div>
 
