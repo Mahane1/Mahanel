@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://i.imgur.com/your-banner.gif" width="100%">
+<img src="https://github.com/Mahane1/Mahanel/blob/main/8cb322aefa4b11efce410271f4174bfa.jpg" width="100%">
 
 <br>
 
@@ -29,7 +29,7 @@
 <tr>
 <td>
 
-<img src="https://i.imgur.com/avatar.png" width="60">
+<img src="https://github.com/Mahane1/Mahanel/blob/main/Kh%C3%B4ng%20C%C3%B3%20Ti%C3%AAu%20%C4%90%E1%BB%81261_20260416125440.png" width="60">
 
 </td>
 <td>
@@ -64,14 +64,14 @@
 <tr>
 <td align="center">
 
-<img src="https://i.imgur.com/icon1.png" width="40"><br>
+<img src="https://github.com/Mahane1/Mahanel/blob/main/Kh%C3%B4ng%20C%C3%B3%20Ti%C3%AAu%20%C4%90%E1%BB%81261_20260416125205.png" width="40"><br>
 <sub>server ruled</sub>
 
 </td>
 
 <td align="center">
 
-<img src="https://i.imgur.com/icon2.png" width="40"><br>
+<img src="https://github.com/Mahane1/Mahanel/blob/main/Kh%C3%B4ng%20C%C3%B3%20Ti%C3%AAu%20%C4%90%E1%BB%81261_20260416125125.png" width="40"><br>
 <sub>boost perks</sub>
 
 </td>
