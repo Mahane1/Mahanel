@@ -1,6 +1,6 @@
 <div align="center">
 
-<h3>── ✞ 𝐂𝐄𝐌 𝐂𝐄𝐌 ✞ ──</h3>
+<h3>∘₊✧───˚₊‧꒰ა ✦ ໒꒱ ‧₊˚───✧₊∘</h3>
 
 <p>
 "Tôi là một kẻ ngu ngốc, tôi là một kẻ ngu ngốc, bạn là một kẻ ngu ngốc"<br>
