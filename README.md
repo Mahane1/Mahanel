@@ -43,7 +43,7 @@
 
 <br>
 
-<sub>□ vanity & desk</sub>
+<sub>□ ### ✦ Social ✦</sub>
 
 </td>
 <td>
@@ -68,16 +68,20 @@
 <tr>
 <td align="center">
 
-<img src="https://github.com/Mahane1/Mahanel/blob/main/Kh%C3%B4ng%20C%C3%B3%20Ti%C3%AAu%20%C4%90%E1%BB%81261_20260416125205.png" width="40"><br>
-<sub>server ruled</sub>
+<img src="https://github.com/Mahane1/Mahanel/blob/main/Kh%C3%B4ng%20C%C3%B3%20Ti%C3%AAu%20%C4%90%E1%BB%81261_20260416125205.png" width="70"><br>
+<sub><a href="https://www.minecraft.net/">
+  <img src="https://img.shields.io/badge/MINECRAFT-orange?style=for-the-badge&logo=minecraft&logoColor=white" width="60"></sub>
 
 </td>
 
 <td align="center">
 
-<img src="https://github.com/Mahane1/Mahanel/blob/main/Kh%C3%B4ng%20C%C3%B3%20Ti%C3%AAu%20%C4%90%E1%BB%81261_20260416125125.png" width="40"><br>
-<sub></sub>
+<img src="https://github.com/Mahane1/Mahanel/blob/main/Kh%C3%B4ng%20C%C3%B3%20Ti%C3%AAu%20%C4%90%E1%BB%81261_20260416125125.png" width="70"><br>
+<sub><a href="https://www.roblox.com/">
+  <img src="https://img.shields.io/badge/ROBLOX-red?style=for-the-badge&logo=roblox&logoColor=white" width="60"></sub>
 
 </td>
 </tr>
 </table>
+
+<h1 align="center">DON'T COPY<h1/>
