@@ -1,5 +1,4 @@
-<div align="center"><h3>.∘₊✧───˚₊‧꒰ა ✦ ໒꒱ ‧₊˚───✧₊∘</h3>
-
+<h1 align="center">.∘₊✧─˚₊‧꒰ა ✦ ໒꒱ ‧₊˚─✧₊∘</h1>
 <p>
 "Tôi là một kẻ ngu ngốc, tôi là một kẻ ngu ngốc, bạn là một kẻ ngu ngốc"<br>
 <i>Can we always be this close... forever and ever?</i>
