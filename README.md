@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://github.com/Mahane1/Mahanel/blob/main/8e3e1c6dad3a91965ade7ae2381c9d05%20(1).jpg" width="100%">
+<img src="https://github.com/Mahane1/Mahanel/blob/main/36719f90792fed58883cb33a6c887a72.gif" width="80%">
 
 <br>
 
@@ -58,7 +58,7 @@
 
 <div align="center">
 
-<img src="https://github.com/Mahane1/Mahanel/blob/main/8cb322aefa4b11efce410271f4174bfa.jpg" width="90%">
+<img src="https://github.com/Mahane1/Mahanel/blob/main/ef8dd31ecf0388a62584ace53098275e.jpg" width="90%">
 
 </div>
 
