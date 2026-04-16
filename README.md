@@ -5,8 +5,8 @@
 <br>
 
 <img src="https://github.com/Mahane1/Mahanel/blob/main/033bf230ab8efa0ee477d972dab6e1d9.jpg" width="30%">
-<img src="https://i.imgur.com/img2.png" width="30%">
-<img src="https://i.imgur.com/img3.png" width="30%">
+<img src="https://github.com/Mahane1/Mahanel/blob/main/f38769c51e124bc856a1d9c17b23a67c.jpg" width="30%">
+<img src="https://github.com/Mahane1/Mahanel/blob/main/647f04c61f2a9a89d1ab19af95475bf3.jpg" width="30%">
 
 <br><br>
 
